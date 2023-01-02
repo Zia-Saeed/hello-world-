@@ -1,0 +1,5 @@
+services:
+	web:
+		image:ziasaeeditgeek/bootstrap
+		port:80:80
+	
